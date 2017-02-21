@@ -11,8 +11,17 @@ li.serif {
 h2 {
   color: red;
 }
-p.align {
+div.nav-tab {
   margin-left: auto;
   margin-right: auto;
-  width: 10em;
+  width: 20em;
+  background-color: lightblue;
+  border-style: solid;
+}
+a.navigation {
+  text-decoration: none;
+  color: red;
+}
+a.navigation:hover {
+  color: blue;
 }
