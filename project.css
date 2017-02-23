@@ -25,3 +25,9 @@ a.navigation {
 a.navigation:hover {
   color: blue;
 }
+.align {
+  text-align: center;
+}
+ul.alignleft {
+  margin-left: 155px;
+}
