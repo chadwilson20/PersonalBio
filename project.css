@@ -31,3 +31,8 @@ a.navigation:hover {
 ul.alignleft {
   margin-left: 155px;
 }
+p.aligncenter {
+  margin-left: 255px;
+  margin-right: 220px;
+  text-align: left;
+}
