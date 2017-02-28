@@ -36,3 +36,15 @@ p.aligncenter {
   margin-right: 220px;
   text-align: left;
 }
+#navalign {
+  margin-left: 400px;
+}
+h2 a.colortext {
+  color: green;
+}
+#headercolortext {
+  color: blue;
+}
+.align.headercolortext2 {
+  color: blue;
+}
